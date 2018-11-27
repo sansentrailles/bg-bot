@@ -1,0 +1,4 @@
+.vscode
+/node_modules
+sercret.txt
+config.js

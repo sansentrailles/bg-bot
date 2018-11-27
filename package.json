@@ -20,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/sansentrailles/bg-bot/issues"
   },
-  "homepage": "https://github.com/sansentrailles/bg-bot#readme"
+  "homepage": "https://github.com/sansentrailles/bg-bot#readme",
+  "dependencies": {
+    "config": "^3.0.0",
+    "firebase": "^5.5.9",
+    "node-telegram-bot-api": "^0.30.0",
+    "open-graph-scraper": "^3.5.1",
+    "socks5-https-client": "^1.2.1",
+    "telegraf": "^3.25.0"
+  }
 }
